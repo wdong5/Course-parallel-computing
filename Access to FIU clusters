@@ -1,0 +1,30 @@
+# SSH Connection Instructions
+
+If you're a Windows user, follow these steps to connect to the remote server using SSH.
+
+## Step 1: Download an SSH Client
+
+You'll need an SSH client to connect to the server. We recommend using one of the following free SSH clients:
+
+1. [MobaXterm (Home Edition)](https://mobaxterm.mobatek.net/download.html) (Recommended)
+2. [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty)
+
+## Step 2: Install and Launch the SSH Client
+
+- Download and install your chosen SSH client from the provided links.
+- Launch the SSH client once it's installed.
+
+## Step 3: Connect to the Server
+
+In your SSH client, enter the following connection details:
+
+- **Host Name**: ocelot.aul.fiu.edu
+- **Port**: 22 (the default SSH port)
+
+## Step 4: Authenticate
+
+You will be prompted to enter your username and password for authentication.
+
+That's it! You should now be connected to the remote server using SSH.
+
+Feel free to reach out if you encounter any issues or have any questions.
